@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Sneha J
-
-### Aspiring Corporate Finance Analyst | FP&A | Financial Analysis
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sneha+J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring+Corporate+Finance+Analyst+%7C+FP%26A+%7C+Financial+Analysis&descAlignY=63&descSize=16)
 
 <img src="profile.jpg" width="150" style="border-radius:50%;" alt="Sneha J"/>
 
@@ -13,6 +11,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Finance+Graduate+%7C+PGDM+Candidate;SAP+FICO+%7C+Excel+%7C+Financial+Reporting;Ex-Intern+%40+State+Bank+of+India;Published+Researcher+%7C+IJPREMS+2026)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+### 🎯 Career Objective
+
+Finance graduate pursuing a PGDM, with hands-on experience in financial analysis and competitive benchmarking from a completed internship at SBI. Seeking an entry-level corporate finance role — financial analyst, FP&A, or finance operations — to apply analytical skills in SAP FICO, Excel, and financial research toward measurable business outcomes.
 
 ---
 
@@ -171,8 +175,6 @@ motto: () => "Turning financial data into decisions that matter."
 
 <div align="center">
 
----
-
-*Thanks for visiting my profile!*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
 
 </div>
