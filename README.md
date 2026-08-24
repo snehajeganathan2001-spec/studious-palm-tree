@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sneha%20J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Corporate%20Finance%20Analyst%20%7C%20FP%26A%20%7C%20Financial%20Analysis&descAlignY=63&descSize=16)
+# 👋 Sneha J
+
+### Aspiring Corporate Finance Analyst | FP&A | Financial Analysis
 
 <img src="profile.jpg" width="150" style="border-radius:50%;" alt="Sneha J"/>
 
@@ -169,6 +171,8 @@ motto: () => "Turning financial data into decisions that matter."
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+---
+
+*Thanks for visiting my profile!*
 
 </div>
