@@ -238,6 +238,7 @@ Jaya Matriculation Higher Secondary School, Chennai
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:snehasneha3048@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-j-829925351)
+[![Resume](https://img.shields.io/badge/Resume-4B5563?style=flat-square&logo=googledocs&logoColor=white)](Resume.pdf)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=snehajeganathan2001-spec&color=70a5fd&style=flat-square&label=Profile+Views)
 
