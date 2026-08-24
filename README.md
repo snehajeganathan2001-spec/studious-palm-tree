@@ -151,15 +151,38 @@ motto: () => "Turning financial data into decisions that matter."
 
 ### 🎓 Education
 
-<div align="center">
+<table>
+<tr>
+<td width="60" align="center">🎓</td>
+<td>
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| Post Graduate Diploma in Management (PGDM) | NSB Academy, Bangalore | 2025 – Present | Pursuing |
-| Bachelor of Bank Management (BBM) | Valliammal College for Women, Chennai | 2019 – 2022 | 87% |
-| Higher Secondary (Class XII) | Jaya Matriculation Higher Secondary School, Chennai | 2019 | 80% |
+**Post Graduate Diploma in Management (PGDM)**
+NSB Academy, Bangalore
+`2025 – Present` &nbsp;•&nbsp; **Status:** Pursuing
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="60" align="center">📘</td>
+<td>
+
+**Bachelor of Bank Management (BBM)**
+Valliammal College for Women, Chennai
+`2019 – 2022` &nbsp;•&nbsp; **Score:** 87%
+
+</td>
+</tr>
+<tr>
+<td width="60" align="center">🏫</td>
+<td>
+
+**Higher Secondary (Class XII)**
+Jaya Matriculation Higher Secondary School, Chennai
+`2019` &nbsp;•&nbsp; **Score:** 80%
+
+</td>
+</tr>
+</table>
 
 ---
 
