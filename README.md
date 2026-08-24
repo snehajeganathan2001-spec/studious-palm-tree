@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sneha+J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring+Corporate+Finance+Analyst+%7C+FP+and+A+%7C+Financial+Analysis&descAlignY=60&descSize=16)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sneha+J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring+Corporate+Finance+Analyst+%7C+FP+and+A+%7C+Financial+Analysis&descAlignY=60&descSize=16" alt="Header"/>
 
 <table>
 <tr>
@@ -186,6 +186,6 @@ motto: () => "Turning financial data into decisions that matter."
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="Footer"/>
 
 </div>
