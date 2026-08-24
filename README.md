@@ -1,10 +1,21 @@
-<div align="center">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sneha+J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring+Corporate+Finance+Analyst+%7C+FP+and+A+%7C+Financial+Analysis&descAlignY=60&descSize=16)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sneha+J&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring+Corporate+Finance+Analyst+%7C+FP%26A+%7C+Financial+Analysis&descAlignY=63&descSize=16)
-
+<table>
+<tr>
+<td width="180">
 <img src="profile.jpg" width="150" style="border-radius:50%;" alt="Sneha J"/>
+</td>
+<td>
 
-</div>
+👋 **Hi, I'm Sneha**
+
+💼 Finance Graduate pursuing **PGDM** @ NSB Academy — Ex-Intern @ **State Bank of India** (Wealth Management)
+📊 Building toward a career in **Corporate Finance & FP&A**, one financial model at a time
+📍 Chennai, Tamil Nadu, India &nbsp;•&nbsp; 🎓 BBM — Business Management
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
