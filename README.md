@@ -1,4 +1,4 @@
-<div align="center">
+</div> <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Sneha%20J&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Aspiring%20Corporate%20Finance%20Analyst%20%7C%20FP%26A%20%7C%20Financial%20Analysis&amp;descAlignY=62&amp;descSize=16)
 
