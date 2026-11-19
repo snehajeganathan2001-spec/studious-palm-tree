@@ -36,17 +36,24 @@ Finance graduate pursuing a PGDM, with hands-on experience in financial analysis
 ```yaml
 name: "Sneha J"
 location: "Chennai, Tamil Nadu, India"
-degree: "PGDM (Pursuing) — NSB Academy, Bangalore"
+degree: "PGDM — NSB World Business School, Bangalore"
 background: "Bachelor of Bank Management (BBM)"
-current_role: "Finance Graduate | Seeking Entry-Level Corporate Finance Roles"
+current_role: "Finance Graduate | Seeking Entry-Level Finance and Accounting Roles"
 tools:
   - SAP FICO (GL, AP/AR, Financial Postings)
   - MS Excel (Financial Data Analysis)
   - MS PowerPoint
+  - Tableau
+  - ERP Systems (SAP)
+  - MIS (Management Information Systems)
 domain_knowledge:
+  - FP&A
   - Corporate Finance Fundamentals
-  - Financial Reporting
-  - Competitive & Market Analysis
+  - Budgeting & Forecasting
+  - P&L Reporting & Analysis
+  - Financial Statement Analysis
+  - Competitive & Market Benchmarking
+  - MIS & ERP Systems
 currently_exploring:
   - Advanced Financial Modeling
   - FP&A Best Practices
@@ -57,12 +64,14 @@ motto: () => "Turning financial data into decisions that matter."
 ---
 
 ### 🛠️ Skills & Tools
-
 **Finance & Analysis Tools**
 
 ![SAP](https://img.shields.io/badge/SAP_FICO-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/MS_PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![ERP](https://img.shields.io/badge/ERP_Systems-6C3EDB?style=flat-square&logo=sap&logoColor=white)
+![MIS](https://img.shields.io/badge/MIS-38BDAE?style=flat-square&logo=databricks&logoColor=white)
 
 **Domain Knowledge**
 
@@ -73,8 +82,10 @@ motto: () => "Turning financial data into decisions that matter."
 **Core Strengths**
 
 ![Analytical](https://img.shields.io/badge/Analytical_Problem_Solving-70A5FD?style=flat-square&logo=probot&logoColor=white)
+![Data-Driven](https://img.shields.io/badge/Data--Driven_Decision_Making-70A5FD?style=flat-square&logo=probot&logoColor=white)
 ![Research](https://img.shields.io/badge/Market_Research-38BDAE?style=flat-square&logo=googlescholar&logoColor=white)
-![Communication](https://img.shields.io/badge/Client_Focused_Communication-FFB86C?style=flat-square&logo=wechat&logoColor=white)
+![Communication](https://img.shields.io/badge/Stakeholder_Communication-FFB86C?style=flat-square&logo=wechat&logoColor=white)
+![Detail](https://img.shields.io/badge/Attention_to_Detail-FF6B6B?style=flat-square&logo=googlemeet&logoColor=white)
 ![Teamwork](https://img.shields.io/badge/Teamwork-FF6B6B?style=flat-square&logo=googlemeet&logoColor=white)
 
 ---
@@ -85,12 +96,12 @@ motto: () => "Turning financial data into decisions that matter."
 <summary><b>Summer Intern, Wealth Management Division — State Bank of India (SBI), Nungambakkam Branch</b> | May – Jul 2026 | Chennai, India</summary>
 <br>
 
-> `SAP FICO` `MS Excel` `Financial Analysis` `Market Research`
+>  `MS Excel` `Financial Analysis` `Market Research`
 
 - Completed a 2-month internship applying financial analysis and market research methods to evaluate service and business performance, building skills directly transferable to corporate finance and FP&A functions.
 - Authored the project report *"The Experience Gap for HNIs: SBI vs. Competition,"* benchmarking SBI's offerings against private-sector competitors.
 - Report was reviewed and approved by the Deputy General Manager & CDO as meeting all study objectives.
-- Applied SAP FICO and Excel to organise, analyse, and report on internal financial data for the benchmarking project.
+- Applied Excel to organise, analyse, and report on internal financial data for the benchmarking project.
 
 </details>
 
